@@ -1,4 +1,4 @@
-// Create a web server that listens for requests on the root URL and responds with a list of comments in JSON format.
+// Create web server that listens for requests on the root URL and responds with a list of comments in JSON format.
 const express = require('express');
 const app = express();
 const PORT = 3000;
